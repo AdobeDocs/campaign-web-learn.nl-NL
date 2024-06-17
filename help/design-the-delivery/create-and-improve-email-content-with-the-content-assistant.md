@@ -1,6 +1,6 @@
 ---
 title: E-mailinhoud maken en verbeteren met de Content Assistant
-description: Leer hoe u de generatieve AI-content-assistent kunt gebruiken om de e-mailinhoud te maken en te verbeteren en uw e-mailleveringen te optimaliseren zodat ze beter aansluiten bij uw publiek.
+description: Leer hoe u de generatieve AI-content-assistent kunt gebruiken om de e-mailinhoud te maken en te verbeteren.
 feature: Email Design
 role: User
 level: Beginner
@@ -11,17 +11,17 @@ jira: KT-14454
 hidefromtoc: true
 hide: true
 badgeAlpha: label="Alpha" type="informative" before-title="true"
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
+source-git-commit: 1f603df605fa02b70880c0e0741db5927e17f7c5
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-
 # E-mailinhoud maken en verbeteren met de Content Assistant
 
-Leer hoe u de generatieve AI-content-assistent kunt gebruiken om de e-mailinhoud te maken en te verbeteren en uw e-mailleveringen te optimaliseren zodat ze beter aansluiten bij uw publiek.
+Leer hoe u de generatieve AI-content-assistent kunt gebruiken om de e-mailinhoud te maken en te verbeteren.
 
 >[!NOTE]
 >
@@ -29,4 +29,4 @@ Leer hoe u de generatieve AI-content-assistent kunt gebruiken om de e-mailinhoud
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html).
+Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
