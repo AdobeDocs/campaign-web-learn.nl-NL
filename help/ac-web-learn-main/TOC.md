@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web User Interface
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
 breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
-source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
+source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 32%
+source-wordcount: '129'
+ht-degree: 29%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 32%
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Aan de slag {#getting-started}
    + [De gebruikersinterface van het web van de campagne verkennen](/help/get-started/explore-the-web-ui.md)
+   + [ worden begonnen met Adobe Campaign v8 na het migreren van Campaign Standard ](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
 + Berichten en leveringen {#messages-and-deliveries}
    + [Een e-maillevering maken](/help/deliveries/create-an-email-delivery.md)
    + [E-mailinhoud helemaal zelf ontwerpen](/help/design-the-delivery/create-email-content-from-scratch.md)
@@ -30,7 +31,7 @@ ht-degree: 32%
    + [Een publiek met Experience Platform maken](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Een targetingworkflow maken](/help/workflows/create-a-targeting-workflow.md)
-+ Actieve opnamen van Experiencen League {#exl-live-recordings}
-   + [Vooruitgang boeken met de nieuwe Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
-+ [Zelfstudies voor de Campagne-clientconsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
++ Actieve opnamen Experiencen League {#exl-live-recordings}
+   + [ die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html) {target="_blank"}
++ [ de zelfstudies van de Console van de Cliënt van de Campagne ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) {target="_blank"}
 
