@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Web User Interface
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
 breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
-source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
+source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 31%
@@ -23,9 +23,9 @@ ht-degree: 31%
    + [Een e-maillevering maken](/help/deliveries/create-an-email-delivery.md)
    + [E-mailinhoud helemaal zelf ontwerpen](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Een e-mail maken door HTML te uploaden](/help/design-the-delivery/create-an-email-by-uploading-html.md)
+   + [Een voorbeeld van een e-maillevering bekijken en een elektronische proefdruk maken](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [E-mailinhoud maken en verbeteren met de Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Inhoud maken met de AI Assistant in Campagne - Inhoudsversnelling](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [Een voorbeeld van een e-maillevering bekijken en een elektronische proefdruk maken](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [Een levering voor direct mail maken](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profielen en doelgroepen {#profiles-and-audiences}
    + [Profielen verkennen](/help/profiles-and-audiences/explore-profiles.md)
