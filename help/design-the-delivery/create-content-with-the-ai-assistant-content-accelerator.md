@@ -10,10 +10,10 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: f16d7d8d0db84ce411b3ff5f8922de05ade5dcab
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 2%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 0%
 Leer hoe u de AI-assistent gebruikt in Campagne - Content Accelerator om inhoud met behoud van kanalen te genereren voor realtime 1:1 en batchcampagnes die op de doelgroep reageren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
+
+## Verdere bronnen
+
+* Experience League LIVE: [ AI Bash - ontgrendelt de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
