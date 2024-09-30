@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web User Interface
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
 breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
-source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
+source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 31%
+source-wordcount: '154'
+ht-degree: 27%
 
 ---
 
@@ -36,4 +36,5 @@ ht-degree: 31%
 + Actieve opnamen Experiencen League {#exl-live-recordings}
    + [ die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html) {target="_blank"}
 + [ de zelfstudies van de Console van de Cliënt van de Campagne ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) {target="_blank"}
++ [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
 
