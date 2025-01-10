@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Web User Interface
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
 breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
+source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '159'
 ht-degree: 27%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 27%
 
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Aan de slag {#getting-started}
-   + [ de Gids van de Goedkeuring van Adobe Campaign v8 ](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [ de Gids van de Goedkeuring van Adobe Campaign v8 ](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
    + [De gebruikersinterface van het web van de campagne verkennen](/help/get-started/explore-the-web-ui.md)
 + Berichten en leveringen {#messages-and-deliveries}
    + [Een e-maillevering maken](/help/deliveries/create-an-email-delivery.md)
@@ -29,6 +29,7 @@ ht-degree: 27%
    + [Een levering voor direct mail maken](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profielen en doelgroepen {#profiles-and-audiences}
    + [Profielen verkennen](/help/profiles-and-audiences/explore-profiles.md)
+   + [Testprofielen maken en beheren](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [Het publiek beheren en opbouwen](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Een publiek met Experience Platform maken](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
