@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web User Interface
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
 breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
-source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+source-git-commit: 3dd71a4f48ce20b2118806120baba50c6a6429aa
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 27%
+source-wordcount: '165'
+ht-degree: 26%
 
 ---
 
@@ -27,6 +27,8 @@ ht-degree: 27%
    + [E-mailinhoud maken en verbeteren met de Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Inhoud maken met de AI Assistant in Campagne - Inhoudsversnelling](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Een levering voor direct mail maken](/help/design-the-delivery/create-a-direct-mail-delivery.md)
++ Inhoudsbeheer {#content-management}
+   + [Levering verbeteren met dynamische inhoud](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Profielen en doelgroepen {#profiles-and-audiences}
    + [Profielen verkennen](/help/profiles-and-audiences/explore-profiles.md)
    + [Testprofielen maken en beheren](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
