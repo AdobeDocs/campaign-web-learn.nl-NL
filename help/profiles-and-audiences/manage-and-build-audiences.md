@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe te om publiek te bouwen en te beheren, hoe te om publiek voor een levering te selecteren, en controlegroepen te bepalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453208/?learn=on&captions=dut)
 
 Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=nl-NL)

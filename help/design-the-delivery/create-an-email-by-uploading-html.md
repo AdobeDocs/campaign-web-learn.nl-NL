@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een e-mail maakt door HTML te uploaden, hoe u deze compatibel maakt met de e-mailontwerper en hoe u deze omzet in een sjabloon.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447038/?learn=on&captions=dut)

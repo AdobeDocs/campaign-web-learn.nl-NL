@@ -27,6 +27,6 @@ Leer hoe u de generatieve AI-content-assistent kunt gebruiken om de e-mailinhoud
 >
 > Deze mogelijkheid is momenteel beschikbaar in de versie van de Alpha en kan zonder voorafgaande kennisgeving worden gewijzigd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452076/?learn=on&captions=dut)
 
 Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).

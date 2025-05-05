@@ -20,6 +20,6 @@ ht-degree: 13%
 
 Leer hoe u een volledig nieuwe e-maillevering maakt, het publiek definieert, de inhoud ontwerpt, voorvertoning simuleert en een proefdruk verzendt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454011/?learn=on&captions=dut)
 
 Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=nl-NL)

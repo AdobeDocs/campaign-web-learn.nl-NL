@@ -22,4 +22,4 @@ Wanneer u een campagne maakt in Adobe Campaign, kunt u dynamische inhoud en pers
 
 Leer hoe u een testprofiel maakt in de clientconsole en hoe u profielen beheert en bewerkt in de gebruikersinterface van Adobe Campaign Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442901/?learn=on&enablevpops&captions=dut)

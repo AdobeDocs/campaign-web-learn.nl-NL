@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u de inhoud en personalisatie van e-mailberichten kunt voorvertonen, testleveringen (proefdrukken) naar specifieke ontvangers of abonnees kunt verzenden voor tests en validatie, en de e-mailrendering kunt controleren bij populaire desktops, mobiele en webclients.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450343/?learn=on&captions=dut)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Begrijp hoe u door de Designer-e-mail kunt navigeren. Leer hoe u een geheel nieuwe e-mail kunt structureren en ontwerpen, hoe u uw e-mail kunt personaliseren en testen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453571/?learn=on&captions=dut)
 
 >[!NOTE]
 >

@@ -20,7 +20,7 @@ ht-degree: 19%
 
 Begrijp hoe de werkschema&#39;s werken en hoe te om een het richten werkschema tot stand te brengen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453978/?learn=on&captions=dut)
 
 
 Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=nl-NL).
