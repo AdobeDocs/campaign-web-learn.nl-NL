@@ -37,6 +37,6 @@ ht-degree: 26%
 + Workflows {#workflows}
    + [Een targetingworkflow maken](/help/workflows/create-a-targeting-workflow.md)
 + Actieve opnamen Experiencen League {#exl-live-recordings}
-   + [ die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html) {target="_blank"}
-+ [ de zelfstudies van de Console van de Cliënt van de Campagne ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) {target="_blank"}
+   + [ die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
++ [ de zelfstudies van de Console van de Cliënt van de Campagne](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

@@ -17,7 +17,7 @@ ht-degree: 26%
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface. Er worden regelmatig nieuwe video&#39;s toegevoegd.
 
-De het platformaanpassing van de campagne die op zaken en gegevensbehoeften wordt gebaseerd, en de verbinding aan andere systemen wordt beheerd in de de cliëntconsole van de Campagne. Dientengevolge, kunnen sommige montages en eigenschappen slechts van de cliëntconsole van de Campagne worden betreden, worden gecreeerd of worden beheerd. Zie de [ gids van het Web van de Campagne en van de Console van de Cliënt ](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html) {target="_blank"} voor een overzicht over de montages en de eigenschappen die in de toekomst zullen worden.
+De het platformaanpassing van de campagne die op zaken en gegevensbehoeften wordt gebaseerd, en de verbinding aan andere systemen wordt beheerd in de de cliëntconsole van de Campagne. Dientengevolge, kunnen sommige montages en eigenschappen slechts van de cliëntconsole van de Campagne worden betreden, worden gecreeerd of worden beheerd. Zie de [ gids van het Web van de Campagne en van de Console van de Cliënt ](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html){target="_blank"}  voor een overzicht over de montages en de eigenschappen die in de toekomst zullen worden.
 
 >[!INFO]
 > 
@@ -27,8 +27,8 @@ De het platformaanpassing van de campagne die op zaken en gegevensbehoeften word
 > Deze zelfstudies zijn niet waar u naar op zoek bent.
 > Zie de
 > 
-> * [ de zelfstudies van de Console van de Cliënt van de Campagne ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) {target="_blank"} voor begeleiding op de Console van de Campagne
-> * [ Documentatie van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) {target="_blank"} voor meer informatie over het de gebruikersinterface van het Web van de Campagne.
+> * [ de zelfstudies van de Console van de Cliënt van de Campagne ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}  voor begeleiding op de Console van de Campagne
+> * [ Documentatie van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"}  voor meer informatie over het de gebruikersinterface van het Web van de Campagne.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
