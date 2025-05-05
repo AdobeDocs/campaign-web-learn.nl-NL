@@ -22,4 +22,4 @@ Leer hoe u een volledig nieuwe e-maillevering maakt, het publiek definieert, de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=en)
+Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=nl-NL)

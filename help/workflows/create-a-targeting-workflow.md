@@ -23,4 +23,4 @@ Begrijp hoe de werkschema&#39;s werken en hoe te om een het richten werkschema t
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
+Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=nl-NL).

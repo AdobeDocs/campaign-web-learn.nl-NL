@@ -22,4 +22,4 @@ Leer om tot profielen toegang te hebben, te beheren en te onderzoeken gebruikend
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)
+Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=nl-NL)

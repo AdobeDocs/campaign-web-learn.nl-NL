@@ -22,4 +22,4 @@ Leer hoe te om publiek te bouwen en te beheren, hoe te om publiek voor een lever
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)
+Voor meer informatie over deze functie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=nl-NL)

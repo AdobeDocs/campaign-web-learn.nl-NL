@@ -26,4 +26,4 @@ Begrijp hoe u door de Designer-e-mail kunt navigeren. Leer hoe u een geheel nieu
 >
 >Toegang tot het Assets-menu is beperkt tot gebruikers met een actieve licentie voor Experience Essentials. Als u deze licentie niet hebt, is het menu Assets niet beschikbaar.
 
-Voor meer informatie over deze eigenschap, zie de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=en).
+Voor meer informatie over deze eigenschap, zie de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=nl-NL).

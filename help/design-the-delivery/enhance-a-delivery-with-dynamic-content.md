@@ -22,4 +22,4 @@ Leer hoe te om berichtinhoud dynamisch te maken door de uitdrukkingsredacteur te
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
 
-Zie de productdocumentatie voor meer informatie over [ hoe te om uw inhoud dynamisch ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/gs-personalization) te maken.
+Zie de productdocumentatie voor meer informatie over [ hoe te om uw inhoud dynamisch ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/content/dynamic-content/gs-personalization) te maken.

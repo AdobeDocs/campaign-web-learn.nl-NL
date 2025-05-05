@@ -25,4 +25,4 @@ Leer hoe u een directe-maillevering maakt in de Adobe Campaign v8-webgebruikersi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
 
-Zie de [ het productdocumentatie van het Gebruikersinterface van het Web van de Campagne ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail) voor meer informatie.
+Zie de [ het productdocumentatie van het Gebruikersinterface van het Web van de Campagne ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail) voor meer informatie.
