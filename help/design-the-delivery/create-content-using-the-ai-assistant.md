@@ -26,4 +26,4 @@ Leer hoe u Adobe ADM Content Accelerator kunt gebruiken om snel e-mails voor mar
 
 ## Verdere bronnen
 
-* Experience League LIVE: [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
