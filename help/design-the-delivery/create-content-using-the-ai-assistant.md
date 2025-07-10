@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Leer hoe u Adobe ADM Content Accelerator kunt gebruiken om snel e-mails voor marketing te genereren en aan te passen, inclusief onderwerpregel, tekst en afbeeldingen, en om door uw merk goedgekeurde middelen te integreren voor consistentie en naleving.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463770/?learn=on&enablevpops&captions=dut)
 
 ## Verdere bronnen
 
