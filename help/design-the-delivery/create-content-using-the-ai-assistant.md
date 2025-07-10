@@ -1,5 +1,5 @@
 ---
-title: Inhoud maken met de AI-assistent voor het genereren van inhoud
+title: Inhoud maken met AI-assistent voor het genereren van inhoud
 description: Leer hoe u Adobe ADM Content Accelerator kunt gebruiken om snel e-mails voor marketing te genereren en aan te passen, inclusief onderwerpregel, tekst en afbeeldingen, en om door uw merk goedgekeurde middelen te integreren voor consistentie en naleving.
 feature: Email Design
 role: Admin, Developer, Leader, User
@@ -11,19 +11,19 @@ last-substantial-update: 2025-06-09T00:00:00Z
 hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
+source-git-commit: 134c79c023dc85fca65ba92bad669bc49322fe1f
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 2%
 
 ---
 
-# Inhoud maken met de AI-assistent voor het genereren van inhoud
+# Inhoud maken met AI Assistant voor het genereren van inhoud
 
 Leer hoe u Adobe ADM Content Accelerator kunt gebruiken om snel e-mails voor marketing te genereren en aan te passen, inclusief onderwerpregel, tekst en afbeeldingen, en om door uw merk goedgekeurde middelen te integreren voor consistentie en naleving.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463770/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## Verdere bronnen
 
-* Experience League LIVE: [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
