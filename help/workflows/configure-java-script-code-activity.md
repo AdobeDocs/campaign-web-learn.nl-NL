@@ -24,4 +24,4 @@ Deze zelfstudie behandelt zowel eenvoudige als geavanceerde scriptmodi. Hierin w
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
 
-Zie de [productdocumentatie](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/javascript-code) voor meer informatie over deze functie.
+Zie de [productdocumentatie](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/wf/design-workflows/javascript-code) voor meer informatie over deze functie.
