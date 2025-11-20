@@ -17,7 +17,7 @@ ht-degree: 24%
 
 + [Zelfstudies voor Adobe Campaign-webgebruikersinterface](/help/ac-web-learn-main/overview.md)
 + Aan de slag {#getting-started}
-   + [&#x200B; de Gids van de Goedkeuring van Adobe Campaign v8 &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
+   + [ de Gids van de Goedkeuring van Adobe Campaign v8 ](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
    + [De gebruikersinterface van het web van de campagne verkennen](/help/get-started/explore-the-web-ui.md)
 + Berichten en leveringen {#messages-and-deliveries}
    + [Een e-maillevering maken](/help/deliveries/create-an-email-delivery.md)
@@ -37,6 +37,6 @@ ht-degree: 24%
    + [Een targetingworkflow maken](/help/workflows/create-a-targeting-workflow.md)
    + [Java-scriptcodeactiviteit configureren](/help/workflows/configure-java-script-code-activity.md)
 + Experience League Live-opnamen {#exl-live-recordings}
-   + [&#x200B; die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=nl-NL){target="_blank"}
-+ [&#x200B; Zelfstudies van de Console van de Cliënt van de Campagne](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}
-+ [&#x200B; AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [ die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
++ [ Zelfstudies van de Console van de Cliënt van de Campagne ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
++ [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
