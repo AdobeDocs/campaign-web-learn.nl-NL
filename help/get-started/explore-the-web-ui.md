@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer om tot het Gebruikersinterface van het Web van de Campagne toegang te hebben en te navigeren en hoe te om de inventarislijsten aan te passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453428/?captions=dut&learn=on)
 
 Zie [&#x200B; begonnen worden met het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=nl-NL) voor meer informatie over hoe te om het Web van de Campagne v8 gebruikersinterface te navigeren.
