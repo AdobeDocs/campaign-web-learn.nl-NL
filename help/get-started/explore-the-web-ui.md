@@ -22,4 +22,4 @@ Leer om tot het Gebruikersinterface van het Web van de Campagne toegang te hebbe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
-Zie [&#x200B; begonnen worden met het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html) voor meer informatie over hoe te om het Web van de Campagne v8 gebruikersinterface te navigeren.
+Zie [&#x200B; begonnen worden met het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=nl-NL) voor meer informatie over hoe te om het Web van de Campagne v8 gebruikersinterface te navigeren.
