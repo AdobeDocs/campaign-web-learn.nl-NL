@@ -19,7 +19,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 **probeer de [&#x200B; klikbare demo &#x200B;](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)!**
 
-De het platformaanpassing van de campagne die op zaken en gegevensbehoeften wordt gebaseerd, en de verbinding aan andere systemen wordt beheerd in de de cliëntconsole van de Campagne. Dientengevolge, kunnen sommige montages en eigenschappen slechts van de cliëntconsole van de Campagne worden betreden, worden gecreeerd of worden beheerd. Zie de [&#x200B; gids van het Web van de Campagne en van de Console van de Cliënt &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html){target="_blank"} voor een overzicht over de montages en de eigenschappen die in de toekomst zullen worden.
+De het platformaanpassing van de campagne die op zaken en gegevensbehoeften wordt gebaseerd, en de verbinding aan andere systemen wordt beheerd in de de cliëntconsole van de Campagne. Dientengevolge, kunnen sommige montages en eigenschappen slechts van de cliëntconsole van de Campagne worden betreden, worden gecreeerd of worden beheerd. Zie de [&#x200B; gids van het Web van de Campagne en van de Console van de Cliënt &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=nl-NL){target="_blank"} voor een overzicht over de montages en de eigenschappen die in de toekomst zullen worden.
 
 >[!INFO]
 > 
@@ -29,8 +29,8 @@ De het platformaanpassing van de campagne die op zaken en gegevensbehoeften word
 > Deze zelfstudies zijn niet waar u naar op zoek bent.
 > Zie de
 > 
-> * [&#x200B; Zelfstudies van de Console van de Cliënt van de Campagne &#x200B;](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"} voor begeleiding op de Console van de Campagne
-> * [&#x200B; Documentatie van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"} voor meer informatie over het de gebruikersinterface van het Web van de Campagne.
+> * [&#x200B; Zelfstudies van de Console van de Cliënt van de Campagne &#x200B;](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=nl-NL){target="_blank"} voor begeleiding op de Console van de Campagne
+> * [&#x200B; Documentatie van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=nl-NL){target="_blank"} voor meer informatie over het de gebruikersinterface van het Web van de Campagne.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -44,11 +44,11 @@ De het platformaanpassing van de campagne die op zaken en gegevensbehoeften word
 
 ## Experience League Live-gebeurtenissen
 
-* **[die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
+* **[die vooruitlopen met het nieuwe Gebruikersinterface van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=nl-NL){target="_blank"}**
 
   *leer hoe te om kanaalcampagnes in de nieuwe gebruikerservaring te plannen, te lanceren en te meten.*
 
-* **[AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen van Adobe Experience Platform en Campagne &#x200B;](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen van Adobe Experience Platform en Campagne &#x200B;](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
 
   *Onderzoek hoe AI Medewerker klanteninteractie omzet en productiviteit in de Toepassingen van Adobe Experience Cloud en Adobe Campaign verbetert.*
 
