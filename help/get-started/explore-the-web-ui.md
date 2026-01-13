@@ -24,4 +24,4 @@ Leer om tot het Gebruikersinterface van het Web van de Campagne toegang te hebbe
 
 Probeer ** [&#x200B; Aanklikbare Demo &#x200B;](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)!
 
-Zie [&#x200B; begonnen worden met het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html) voor meer informatie over hoe te om het Web van de Campagne v8 gebruikersinterface te navigeren.
+Zie [&#x200B; begonnen worden met het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=nl-NL) voor meer informatie over hoe te om het Web van de Campagne v8 gebruikersinterface te navigeren.
