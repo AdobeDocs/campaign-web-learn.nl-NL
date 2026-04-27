@@ -11,10 +11,10 @@ last-substantial-update: 2025-06-09T00:00:00Z
 hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: 134c79c023dc85fca65ba92bad669bc49322fe1f
+source-git-commit: f386fd9b65ea1f2db4817a1a8519d3d24633bbb9
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 2%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 2%
 
 Leer hoe u Adobe ADM Content Accelerator kunt gebruiken om snel e-mails voor marketing te genereren en aan te passen, inclusief onderwerpregel, tekst en afbeeldingen, en om door uw merk goedgekeurde middelen te integreren voor consistentie en naleving.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463770/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
-## Verdere bronnen
+## Aanvullende bronnen
 
-* Experience League LIVE: [&#x200B; AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [ AI Bash - ontgrendel de Macht van AI Medewerker in de Toepassingen en de Campagne van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
